@@ -1,0 +1,37 @@
+
+    {
+     "fname": "sajad",
+	 "lname": "nojavan",
+	 "meli-code":2131421423,
+	 "gender":"male",
+	 "birth-date":"2/3/1999"
+    },
+	  {
+     "fname": "reza",
+	 "lname": "mehrabi",
+	 "meli-code":31124514212,
+	 "gender":"male",
+	 "birth-date":"2/3/1900"
+    },
+	  {
+     "fname": "hossein",
+	 "lname": "mahamed",
+	 "meli-code":2111521723,
+	 "gender":"male",
+	 "birth-date":"2/3/2010"
+    },
+	  {
+     "fname": "ali",
+	 "lname": "mahmudi",
+	 "meli-code":2131121423,
+	 "gender":"male",
+	 "birth-date":"5/3/2002"
+    },
+	  {
+     "fname": "zahra",
+	 "lname": "saeedi",
+	 "meli-code":2131121222,
+	 "gender":"femal",
+	 "birth-date":"2/3/1991"
+    },
+   
